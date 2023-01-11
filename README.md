@@ -19,9 +19,6 @@ I'm passionate about technology and education, and I try to combine the two in v
 
 GitHub Stats &#x1f4c8;
 
-[![GitHub statistics - languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasad-g&langs_count=3)](https://github.com/sivaprasad-g/sivaprasad-g)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/sivprasad-g/github-readme-stats)
 
 ## My Work 🧑‍💻
 **Microsoft Certified Trainer - Azure & AI**
