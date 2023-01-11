@@ -21,8 +21,7 @@ GitHub Stats &#x1f4c8;
 
 [![GitHub statistics - languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasad-g&langs_count=3)](https://github.com/sivaprasad-g/sivaprasad-g)
 
-[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=sivaprasad-g&show_icons=true)](https://github.com/sivaprasad-g/sivaprasad-g)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/sivprasad-g/github-readme-stats)
 
 ## My Work 🧑‍💻
 **Microsoft Certified Trainer - Azure & AI**
